@@ -1,0 +1,23 @@
+html{
+    background-color: rgb(30, 37, 26);
+}
+
+a.links {
+    color:red;
+}
+
+h3.links {
+    color:yellow;
+}
+
+p {
+    color: lightcoral;
+}
+
+footer p{
+    text-align: center;
+    text-transform: uppercase;
+    font-size: 13px;
+    margin: 25px 0 0 0;
+    color: rgb(rgb(92, 100, 22));
+}
